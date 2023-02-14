@@ -1,15 +1,26 @@
-# 프로그래머스 템플릿 소스 
-# 코딩 테스트 입문 - 배열의 평균 값 
-def solution(numbers):
-    answer = 0
-    for i in numbers:
-        answer+= i
-    return answer/ len(numbers)
-
-if __name__=='__main__':
-    numbers=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    print(solution(numbers))
-
-if __name__=='__main__':
-    numbers=[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
-    print(solution(numbers))
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# 프로그래머스 템플릿 소스\n",
+    "\n",
+    "def solution(numbers):\n",
+    "    answer = 0\n",
+    "    return answer\n",
+    "    "
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  },
+  "orig_nbformat": 4
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
